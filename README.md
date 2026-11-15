@@ -11,7 +11,7 @@
 ```
 > System.Security.Status: ACTIVE
 > Focus: Defensive Security Engineering, Systems Tooling & Applied AI
-> Passion: Motorcyclist 🏍️ | Gamer 🎮
+> Passion: Lead Guitarist 🎸 | Motorcyclist 🏍️ | Gamer 🎮
 ```
 
 </div>
@@ -25,7 +25,7 @@ Software Developer and tool builder passionate about **Defensive Cybersecurity, 
 I build open-source security scanners, telemetry monitors, Linux desktop applications, and offline-first AI pipelines. Always exploring low-level networking, Linux kernel behavior, and application defense.
 
 - 💻 **Core Work:** Security Tooling, Full-Stack Web & Mobile Applications
-- 🐧 **Daily Driver:** Arch Linux & Fedora Workstation
+- 🐧 **Linux User:** Arch Linux & Fedora Workstation
 - 🎯 **Areas of Interest:** DevSecOps, SIEM Threat Hunting, Reverse Engineering & Concurrency
 
 ---
@@ -57,21 +57,6 @@ I build open-source security scanners, telemetry monitors, Linux desktop applica
 | 🤖 **[local-ai-voice-assistant](https://github.com/Corazonpirate27/local-ai-voice-assistant)** | 100% offline, privacy-first conversational speech AI with Silero neural VAD, GPU Whisper STT, Ollama LLM, and real-time barge-in interruption. | `Active / Public` |
 | 🔒 **[project-vpn](https://github.com/Corazonpirate27/project-vpn)** | Production dual-protocol VPN gateway (WireGuard & OpenVPN) with EasyRSA PKI, web management UIs, and automated multi-region routing. | `Active / Public` |
 | 📱 **[root.codex.2026](https://github.com/Corazonpirate27/root.codex.2026)** | Cross-platform tech encyclopedia & arcade application built with 820+ lines of custom Flutter/Dart code featuring real-time multi-category filtering. | `Active / Public` |
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Corazonpirate27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corazonpirate27&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-[![Streak Score](https://streak-stats.demolab.com?user=Corazonpirate27&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
