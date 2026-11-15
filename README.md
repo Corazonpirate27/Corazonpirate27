@@ -11,7 +11,7 @@
 ```
 > System.Security.Status: ACTIVE
 > Focus: Defensive Security Engineering, Systems Tooling & Applied AI
-> Passion: Lead Guitarist (Ibanez JEM Jr) 🎸 | Motorcycle Rider (KTM Duke 200) 🏍️
+> Passion: Motorcyclist 🏍️ | Gamer 🎮
 ```
 
 </div>
